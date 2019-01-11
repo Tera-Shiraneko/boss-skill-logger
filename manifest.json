@@ -1,0 +1,16 @@
+{
+	"files": {
+		"Readme.md": "171aeb79f4c205075b07d49c0b225ed0d2c205a439175faf8bad933275aa5e9c",
+		"format.js": "a0d34cfb7ab631177fbb0302e06a5858155db60afc459cd14f50b000afa2463e",
+		"index.js": "28ddda7c5a45424fca722f798be47fc5b7d5ac72c16ad1c8862b39ee09a69363",
+		"module.json": "88dcdd75dce982377a7f1eb12af4964440dd7642ed4daafc37b63cfc04df95eb",
+		"settings_migrator.js": "6873f82a2d8cee291e074eb1c855ec5d41865b878b3e082eb1b69b816731ec9d",
+		"settings_structure.js": "c749a830997909f506b71a430fe03cb1c7c75715de78f9306428dc1e45f3d2be"
+	},
+	"defs": {
+		"S_ABNORMALITY_BEGIN": 3,
+		"S_ACTION_STAGE": 9,
+		"S_BOSS_GAGE_INFO": 3,
+		"S_DUNGEON_EVENT_MESSAGE": 2
+	}
+}
